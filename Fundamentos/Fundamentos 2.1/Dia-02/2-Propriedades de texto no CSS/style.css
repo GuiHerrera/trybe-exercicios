@@ -1,0 +1,12 @@
+h1 {
+  font-family: sans-serif;
+  font-size: 65px;
+  color: blue;
+}
+p {
+  font-weight: 600;
+  font-size: 48px;
+}
+body {
+  font-size: 16px;
+}

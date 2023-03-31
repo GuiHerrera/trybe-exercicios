@@ -63,7 +63,7 @@ if (salarioBruto <= 1556.94) {
 let salarioBase = salarioBruto - aliquotaINSS;
 
 if (salarioBase <= 1903.98) {
-  aliquotaIR = "Isento de Imposto de Renda";
+  aliquotaIR = 0;
 } else if (salarioBase <= 2826.65) {
   aliquotaIR = salarioBase * 0.075 - 142.8;
 } else if (salarioBase <= 3751.05) {

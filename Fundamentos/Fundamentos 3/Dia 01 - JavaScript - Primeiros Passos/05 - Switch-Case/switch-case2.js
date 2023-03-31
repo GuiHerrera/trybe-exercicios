@@ -1,4 +1,4 @@
-let mes = "Gui";
+let mes = "maio";
 let estacaoDoAno = "?";
 
 switch (mes) {

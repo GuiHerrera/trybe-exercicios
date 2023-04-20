@@ -6,5 +6,3 @@ const firstChildOfChild = whereaAreYou.firstElementChild;
 firstChildOfChild.innerText = "First Child Of Child";
 
 const firstChild = parent.firstElementChild;
-
-const primeiroFilho2 = 

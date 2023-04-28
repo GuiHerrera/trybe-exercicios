@@ -14,5 +14,4 @@
   display: flex;
   /* ADICIONE AQUI SEUS TESTES */
   flex-flow: column wrap-reverse;
-  /* justify-content: center; */
 }
